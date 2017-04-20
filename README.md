@@ -9,6 +9,7 @@ In this tutorial, we learn useful tools in chrome development tools. We introduc
 * Rnfo
 * Testing
 * Clearing
+* Viewing DOM Elements
 * Grouping together
 * Counting
 * Timing
